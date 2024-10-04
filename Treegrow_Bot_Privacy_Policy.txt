@@ -1,0 +1,31 @@
+
+Privacy Policy for Treegrow Bot
+
+Effective Date: [Insert Date]
+
+Treegrow Bot values your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you interact with the bot.
+
+1. Information We Collect
+Treegrow Bot collects limited information to provide its services:
+- Messages and commands you send to the bot.
+- Interaction history for providing personalized services and improving user experience.
+
+We do not collect personally identifiable information unless explicitly shared by users.
+
+2. How We Use Your Information
+The information collected is used solely to improve bot functionality, provide relevant responses, and enhance the user experience. We do not share or sell your data to third parties.
+
+3. Data Security
+We take appropriate measures to ensure your data is kept secure and only accessible to authorized individuals. We use encryption and secure technologies to protect the information collected.
+
+4. Data Retention
+We retain your interaction data only as long as necessary to provide the bot's services. If you stop using the bot, your data will be deleted after a reasonable period.
+
+5. User Control and Rights
+You can stop interacting with the bot at any time. To remove any stored data related to you, contact us at [Insert Contact Information]. We will delete your data promptly.
+
+6. Updates to this Policy
+We may update this Privacy Policy as needed. Please check back periodically for updates. Continued use of the bot implies acceptance of the updated policy.
+
+Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at [Insert Contact Email].
